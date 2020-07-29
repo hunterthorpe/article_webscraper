@@ -4,6 +4,7 @@ Python script used to scrap information from a series of articles describing ten
 Libraries utilized: json, Beatiful Soup, numpy, re, matplotlib
 
 Background 
+
 A web server has been setup at http://comp20008-jh.eng.unimelb.edu.au:9889/main/ containing a number of media reports on Tennis matches between 2004 and 2005. As data scientists, we would like to extract information from those reports and use that information to improve our understanding of player performance. A JSON data file containing player names and key statistics is also available here. 
 
 Task 1 
